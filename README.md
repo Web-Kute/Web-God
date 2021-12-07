@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning JavaScript before ReactJs
+- 🌱 I’m still learning...
 
 
 <!---
